@@ -1,5 +1,5 @@
 ✅ Bu kurs [Plepa Eğitim Hizmetleri](https://plepa.com/) tarafından düzenlenmektedir.<br><br>
-📅 Kurs __26 tEMMUZ 2025 Cumartesi__ günü başlayacaktır.<br><br>
+📅 Kurs __26 TEMMUZ 2025 Cumartesi__ günü başlayacaktır.<br><br>
 ⏰ Dersler __Cumartesi ve Pazar__ günleri __09.00 - 13.00__ saatleri arasında **(haftada 8 saat)** yapılacaktır.<br><br>
 ⌛ Kursun toplam süresi __200__ saattir.<br><br>
 ℹ️ Dersler Zoom platformu üzerinden gerçek zamanlı ve online olarak yapılmaktadır. 
