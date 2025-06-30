@@ -22,9 +22,9 @@ Kurumsal katılımlarda kurs ücretine KDV dahil değildir. Bireysel katılımla
 <!---&#128279; [Kursun Genel Tanıtımı](https://github.com/necatiergin/OCAK_2024_ONLINE_C_KURSU/blob/main/kurs_tanitimi.md)<br>--->
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)<br>
 &#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/DylSFss8QsuZAzTpu-uPJA)
-
+![kurs tanıtım görseli](https://github.com/necatiergin/AGUSTOS_2025_C_KURSU/blob/main/c_kursu_gorseli.png)
 
 <!---
-![kurs tanıtım görseli](https://github.com/necatiergin/OCAK_2025_C_KURSU/blob/main/c_kursu_gorseli.jpg)
+
 ![kurs tanıtım görseli](https://github.com/necatiergin/TEMMUZ_2023_ONLINE_C_KURSU/blob/main/C_kursu_gorseli.jpg)
 --->
