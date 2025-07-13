@@ -26,5 +26,5 @@ Kurumsal katılımlarda kurs ücretine KDV dahil değildir. Bireysel katılımla
 
 <!---
 
-![kurs tanıtım görseli](https://github.com/necatiergin/TEMMUZ_2023_ONLINE_C_KURSU/blob/main/C_kursu_gorseli.jpg)
+![kurs tanıtım görseli](https://github.com/necatiergin/AGUSTOS_2025_C_KURSU/blob/main/c_kurs_gorseli.png)
 --->
