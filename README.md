@@ -12,7 +12,7 @@
 Kurs ücreti 2 taksit olarak ödenebilir.<br>
 Kurumsal katılımlarda kurs ücretine KDV dahil değildir. Bireysel katılımlar için kurs ücretine KDV dahildir.<br>
 
-👨 [Kurs eğitmeni](https://github.com/necatiergin/OCAK_2025_C_KURSU/blob/main/kurs_egitmeni.md)
+👨 [Kurs eğitmeni](https://github.com/necatiergin/AGUSTOS_2025_C_KURSU/blob/main/kurs_egitmeni.md)
 **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.
 
 👨 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br><br>
