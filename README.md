@@ -10,7 +10,6 @@
 ✅ Programın toplam ücreti **42.000 TL**'dir. Peşin ödemede **38.000** TL'dir. 
 Öğrenci olanlar için kurs ücreti **38.000 TL**'dir. Peşin ödemede **34.000** TL'dir.<br> 
 Kurs ücreti 2 taksit olarak ödenebilir.<br>
-Kurumsal katılımlarda kurs ücretine KDV dahil değildir. Bireysel katılımlar için kurs ücretine KDV dahildir.<br>
 
 👨 [Kurs eğitmeni](https://github.com/necatiergin/AGUSTOS_2025_C_KURSU/blob/main/kurs_egitmeni.md)
 **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.
