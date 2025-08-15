@@ -11,6 +11,8 @@
 Öğrenci olanlar için kurs ücreti **38.000 TL**'dir. Peşin ödemede **34.000** TL'dir.<br> 
 **Kurs ücreti 4 taksit olarak ödenebilir**.<br>
 
+ℹ️ **Kursun ilk 4 dersine misafir olarak katılabilirsiniz. Bu durumda kayıt formunda "misafir olarak katılıyorum" seçeneğini  işaretleyiniz.**
+
 👨 [Kurs eğitmeni](https://github.com/necatiergin/AGUSTOS_2025_C_KURSU/blob/main/kurs_egitmeni.md)
 **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.
 
