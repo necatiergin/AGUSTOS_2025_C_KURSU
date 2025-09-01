@@ -1,3 +1,6 @@
+## KURS KAYITLARI DEVAM ETMEKTEDİR. KURSA KAYIT OLAN ÖĞRENCİLER GEÇMİŞ DERLSLERİ KAYITLARDAN İZLEYEBİLİRLER.
+
+
 ✅ Bu kurs [Plepa Eğitim Hizmetleri](https://plepa.com/) tarafından düzenlenmektedir.<br><br>
 📅 Kurs __16 Ağustos 2025 Cumartesi__ günü başlayacaktır.<br><br>
 ⏰ Dersler __Cumartesi ve Pazar__ günleri __09.00 - 13.00__ saatleri arasında **(haftada 8 saat)** yapılacaktır.<br><br>
