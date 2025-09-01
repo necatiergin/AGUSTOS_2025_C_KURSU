@@ -1,5 +1,5 @@
-### KURS KAYITLARI DEVAM ETMEKTEDİR.
-### KURSA KAYIT OLAN ÖĞRENCİLER GEÇMİŞ DERSLERİ KAYITLARDAN İZLEYEBİLİRLER.
+### KURS KAYITLARI DEVAM ETMEKTEDİR.<br>
+KURSA KAYIT OLAN ÖĞRENCİLER GEÇMİŞ DERSLERİ KAYITLARDAN İZLEYEBİLİRLER.
 
 
 ✅ Bu kurs [Plepa Eğitim Hizmetleri](https://plepa.com/) tarafından düzenlenmektedir.<br><br>
